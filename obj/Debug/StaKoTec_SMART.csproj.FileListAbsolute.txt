@@ -1,0 +1,15 @@
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\bin\Debug\StaKoTec_SMART.exe.config
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\bin\Debug\StaKoTec_SMART.exe
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\bin\Debug\StaKoTec_SMART.pdb
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\bin\Debug\AutomationX.dll
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\bin\Debug\AutomationX.pdb
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\bin\Debug\AutomationX.xml
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.csprojResolveAssemblyReference.cache
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.exe
+c:\users\tgreve\documents\visual studio 2013\Projects\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.pdb
+c:\AutomationX\bin\StaKoTec_SMART.exe.config
+c:\AutomationX\bin\StaKoTec_SMART.exe
+c:\AutomationX\bin\StaKoTec_SMART.pdb
+C:\automationX\projects\HomeGear\C_API\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.exe
+C:\automationX\projects\HomeGear\C_API\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.pdb
+C:\automationX\projects\HomeGear\C_API\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.csprojResolveAssemblyReference.cache
