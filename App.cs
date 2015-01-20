@@ -36,6 +36,7 @@ namespace StaKoTec_Serverwatch
                     Dispose();
                 }
                 _mainInstance = new AXInstance(_aX, instanceName, "Status", "err");
+                _aX.ShuttingDown += On_aX_ShuttingDown;
                 Logging.Init(_aX, _mainInstance);
 
                 _getSmartDataTimer = new System.Timers.Timer(15 * 60 * 1000);
@@ -96,6 +97,11 @@ namespace StaKoTec_Serverwatch
             {
                 Logging.WriteLog(LogLevel.Error, ex.Message, ex.StackTrace);
             }
+        }
+
+        void On_aX_ShuttingDown(AX sender)
+        {
+            Dispose();
         }
 
         void _getSmartDataTimer_Elapsed(object sender, ElapsedEventArgs e)
