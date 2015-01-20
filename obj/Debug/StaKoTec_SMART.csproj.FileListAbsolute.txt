@@ -13,3 +13,5 @@ c:\AutomationX\bin\StaKoTec_SMART.pdb
 C:\automationX\projects\HomeGear\C_API\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.exe
 C:\automationX\projects\HomeGear\C_API\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.pdb
 C:\automationX\projects\HomeGear\C_API\StaKoTec_SMART\obj\Debug\StaKoTec_SMART.csprojResolveAssemblyReference.cache
+C:\Users\tgreve\Documents\GitHub\StaKoTec_Serverwatch\obj\Debug\StaKoTec_SMART.exe
+C:\Users\tgreve\Documents\GitHub\StaKoTec_Serverwatch\obj\Debug\StaKoTec_SMART.pdb

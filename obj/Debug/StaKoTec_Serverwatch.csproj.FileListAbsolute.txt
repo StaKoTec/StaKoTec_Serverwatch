@@ -1,0 +1,6 @@
+C:\Users\tgreve\Documents\GitHub\StaKoTec_Serverwatch\obj\Debug\StaKoTec_Serverwatch.csprojResolveAssemblyReference.cache
+C:\AutomationX\bin\StaKoTec_Serverwatch.exe.config
+C:\AutomationX\bin\StaKoTec_Serverwatch.exe
+C:\AutomationX\bin\StaKoTec_Serverwatch.pdb
+C:\Users\tgreve\Documents\GitHub\StaKoTec_Serverwatch\obj\Debug\StaKoTec_Serverwatch.exe
+C:\Users\tgreve\Documents\GitHub\StaKoTec_Serverwatch\obj\Debug\StaKoTec_Serverwatch.pdb
